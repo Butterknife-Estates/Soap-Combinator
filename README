@@ -1,0 +1,7 @@
+Butterknife Estates Coding Group
+Soap Combinator
+
+The object of this project is to produce a program with a GUI that will allow 
+the selection of multiple oils for making soap. Each oil has a value ranging 
+from -4 to 300 and any number of oils may be added to the mixture but the total
+(by proportion) must equal 160.
